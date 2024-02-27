@@ -1,9 +1,10 @@
 Proceso ejercicio26
+	//declaracion vbles
 	Definir nota Como Entero;
-	
+	//entrada
 	Escribir "ingrese su nota:";
 	Leer nota;
-	
+	//proceso-salidas
 	si nota==0 Entonces
 		Escribir " su nota es cero";
 	SiNo

@@ -1,15 +1,16 @@
 Proceso ejercicio28
+	//declaracion vbles
 	Definir horas Como Entero;
 	Definir valorHora Como Entero;
 	Definir pago Como Entero;
 	
-	
+	//entrada
 	Escribir "ingrese las horas trabajadas";
 	Leer horas;
 	
-	Escribir "ingrese erl valor por hora";
+	Escribir "ingrese er valor por hora";
 	Leer valorHora;
-	
+	//procesos-salidas
 	si horas > 40 Entonces
 		pago <- 10000 * (horas-40) + (valorHora * horas);
 	SiNo

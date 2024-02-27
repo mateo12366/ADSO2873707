@@ -1,14 +1,14 @@
 Proceso ejercicio21
-	
+	//declaracion vbles
 	Definir numero1 Como Real;
 	Definir numero2 Como Real;
-	
+	//entradas
 	Escribir "ingrese el numero 1:";
 	Leer numero1;
 	
 	Escribir  "ingrese el numero 2:";
 	Leer numero2;
-	
+	//procesos-salidas
 	si ( numero1 > numero2 ) Entonces
 		Escribir " el numero mayor es : ", numero1;
 	FinSi

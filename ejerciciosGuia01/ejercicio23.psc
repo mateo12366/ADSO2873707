@@ -1,8 +1,9 @@
 Proceso ejercicio23
+	//declaracion vbles
 	definir numero1 Como Entero;
 	Definir numero2 Como Entero;
 	Definir numero3 Como Entero;
-	
+	//entradas
 	Escribir "ingrese el numero 1: ";
 	Leer numero1;
 	
@@ -11,7 +12,7 @@ Proceso ejercicio23
 	
 	Escribir "ingrese el numero 3: ";
 	Leer numero3;
-	
+	//procesos-salidas
 	si numero1>numero2 y numero1>numero3 Entonces
 		si numero2>numero3 Entonces
 			Escribir " los numeros de mayor a menos son : ", numero1, "-", numero2, "-", numero3;

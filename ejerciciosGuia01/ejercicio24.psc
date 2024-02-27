@@ -1,9 +1,10 @@
 Proceso ejercicio24
+	//declaracion vbles
 	Definir numero1 Como Entero;
-	
+	//entradas
 	Escribir " ingrese un numero del 0 al 9999:";
 	Leer numero1;
-	
+	//procesos-salida
 	si numero1 >= 0 y numero1 <=9 Entonces
 		Escribir " el numero es de una cifra";
 	SiNo

@@ -14,9 +14,9 @@ Proceso ejemplo12
 	
 	//procesos
 	si ((nota > 5) o (nota<0)) Entonces
-		Escribir " esta ingresando mal la nota";
+		Escribir " esta ingresando la nota fuera del rango";
 	SiNo
-		si nota <=3 Entonces
+		si nota < 3 Entonces
 			Escribir "perdio la nota";
 		SiNo
 			Escribir  "gano la nota";
