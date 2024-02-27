@@ -4,7 +4,7 @@ Proceso ejercicio17
 	Definir numero2 Como Real;
 	
 	//entrada de datos
-	Escribir "ingrese el BUMERO 1:";
+	Escribir "ingrese el numero 1:";
 	Leer numero1;
 	
 	Escribir "ingrese el numero 2:";
