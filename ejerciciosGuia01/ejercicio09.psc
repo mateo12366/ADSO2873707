@@ -13,7 +13,7 @@ Proceso ejercicio9
 	Escribir "ingrese el numero de materias ganadas:";
 	Leer materiasGanadas;
 	//salidas
-	Escribir "su nombre es: ",nombreEstuduante," el numero de materias perdidas es:",materiasPerdidas, " el numero de materias perdidas es:", materiasGanadas;
+	Escribir "su nombre es: ",nombreEstuduante," el numero de materias perdidas es:",materiasPerdidas, " el numero de materias ganadas es:", materiasGanadas;
 	
 	
 FinProceso

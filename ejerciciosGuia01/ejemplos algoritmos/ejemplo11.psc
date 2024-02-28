@@ -2,8 +2,8 @@ Proceso ejemplo11
 	//condicional simple 2
 	//solicitar el estrato al usuario. se debe saber sie el 
 	//aprendiz aplica a la convocatoria de apoyo de
-	//sostenuimiento deacuerdo a su estrato, ya que solo
-	//pueden participar estratos 1 y 1. mostrat mensaje
+	//sostenimiento deacuerdo a su estrato, ya que solo
+	//pueden participar estratos 1 y 2. mostrat mensaje
 	//si el aprendiz aplica o no
 	
 	//declaracion vbles

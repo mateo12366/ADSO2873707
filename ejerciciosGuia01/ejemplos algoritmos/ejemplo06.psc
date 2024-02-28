@@ -32,7 +32,7 @@ Proceso ejemplo06
 	Escribir " a estudiado en el sena. verdadeo/falso :";
 	Leer estudio;
 	
-	Escribir  "su nombre es ",nombre, "con tipo de documento ",tipoDocumento, " y numero ", documento, ", su direccion es ", direccion, " y estrato " , estrato, " su genero es ", genero, " , peso " , peso, "kg y estudio alguna vez en el sena : ", estudio;
+	Escribir  "su nombre es ",nombre, " con tipo de documento ",tipoDocumento, " y numero ", documento, ", su direccion es ", direccion, " y estrato " , estrato, " su genero es ", genero, " , peso " , peso, "kg y estudio alguna vez en el sena : ", estudio;
 	
 	
 	

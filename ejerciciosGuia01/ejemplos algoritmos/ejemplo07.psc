@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso ejemplo07
 	Definir edad Como Entero; //definicion/declaracion de variables
 	
 	Escribir "ingrese su edad"; // entrada de datos
